@@ -1,0 +1,614 @@
+{
+    "adana-kebap": {
+      "displayName": "Adana Kebap",
+      "defaultPortionGrams": 180,
+      "perPortion": { "calories": 450, "carb": 10, "protein": 30, "fat": 30 },
+      "per100g": { "calories": 250, "carb": 5.6, "protein": 16.7, "fat": 16.7 }
+    },
+    "anne-koftesi": {
+      "displayName": "Anne Köftesi",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 390, "carb": 12, "protein": 27, "fat": 25 },
+      "per100g": { "calories": 260, "carb": 8, "protein": 18, "fat": 16.6 }
+    },
+    "armut": {
+      "displayName": "Armut",
+      "defaultPortionGrams": 160,
+      "perPortion": { "calories": 91, "carb": 24, "protein": 0.6, "fat": 0.2 },
+      "per100g": { "calories": 57, "carb": 15, "protein": 0.4, "fat": 0.1 }
+    },
+    "avokado": {
+      "displayName": "Avokado",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 160, "carb": 8.5, "protein": 2, "fat": 14.7 },
+      "per100g": { "calories": 160, "carb": 8.5, "protein": 2, "fat": 14.7 }
+    },
+    "ayran": {
+      "displayName": "Ayran",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 76, "carb": 6, "protein": 4, "fat": 4 },
+      "per100g": { "calories": 38, "carb": 3, "protein": 2, "fat": 2 }
+    },
+    "baklava": {
+      "displayName": "Baklava",
+      "defaultPortionGrams": 80,
+      "perPortion": { "calories": 330, "carb": 45, "protein": 4, "fat": 15 },
+      "per100g": { "calories": 412, "carb": 56, "protein": 5, "fat": 18.7 }
+    },
+    "beyaz-lahana-sarmasi": {
+      "displayName": "Beyaz Lahana Sarması",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 260, "carb": 16, "protein": 12, "fat": 16 },
+      "per100g": { "calories": 130, "carb": 8, "protein": 6, "fat": 8 }
+    },
+    "biber-dolma": {
+      "displayName": "Biber Dolma",
+      "defaultPortionGrams": 180,
+      "perPortion": { "calories": 270, "carb": 36, "protein": 4, "fat": 12 },
+      "per100g": { "calories": 150, "carb": 20, "protein": 2.2, "fat": 6.6 }
+    },
+    "brokoli": {
+      "displayName": "Brokoli",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 51, "carb": 10, "protein": 3.5, "fat": 0.6 },
+      "per100g": { "calories": 34, "carb": 6.6, "protein": 2.3, "fat": 0.4 }
+    },
+    "bruksel-lahanasi": {
+      "displayName": "Brüksel Lahanası",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 65, "carb": 13, "protein": 5, "fat": 0.5 },
+      "per100g": { "calories": 43, "carb": 8.9, "protein": 3.4, "fat": 0.3 }
+    },
+    "bulgur-pilavi": {
+      "displayName": "Bulgur Pilavı",
+      "defaultPortionGrams": 180,
+      "perPortion": { "calories": 216, "carb": 45, "protein": 6, "fat": 3 },
+      "per100g": { "calories": 120, "carb": 25, "protein": 3.3, "fat": 1.6 }
+    },
+    "cacik": {
+      "displayName": "Cacık",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 84, "carb": 8, "protein": 6, "fat": 4 },
+      "per100g": { "calories": 42, "carb": 4, "protein": 3, "fat": 2 }
+    },
+    "canak-enginar": {
+      "displayName": "Çanak Enginar",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 135, "carb": 15, "protein": 3, "fat": 8 },
+      "per100g": { "calories": 90, "carb": 10, "protein": 2, "fat": 5.3 }
+    },
+    "cay": {
+      "displayName": "Çay",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 1, "carb": 0.2, "protein": 0, "fat": 0 },
+      "per100g": { "calories": 1, "carb": 0.2, "protein": 0, "fat": 0 }
+    },
+    "cig-kofte": {
+      "displayName": "Çiğ Köfte",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 300, "carb": 40, "protein": 6, "fat": 12 },
+      "per100g": { "calories": 250, "carb": 33.3, "protein": 5, "fat": 10 }
+    },
+    "cilek": {
+      "displayName": "Çilek",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 48, "carb": 11, "protein": 1, "fat": 0.4 },
+      "per100g": { "calories": 32, "carb": 7.7, "protein": 0.7, "fat": 0.3 }
+    },
+    "cipura": {
+      "displayName": "Çipura",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 300, "carb": 0, "protein": 50, "fat": 10 },
+      "per100g": { "calories": 120, "carb": 0, "protein": 20, "fat": 4 }
+    },
+    "coban-salatasi": {
+      "displayName": "Çoban Salatası",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 140, "carb": 10, "protein": 2, "fat": 10 },
+      "per100g": { "calories": 70, "carb": 5, "protein": 1, "fat": 5 }
+    },
+    "domates": {
+      "displayName": "Domates",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 22, "carb": 4.6, "protein": 1, "fat": 0.2 },
+      "per100g": { "calories": 18, "carb": 3.9, "protein": 0.9, "fat": 0.2 }
+    },
+    "domates-corbasi": {
+      "displayName": "Domates Çorbası",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 125, "carb": 15, "protein": 3, "fat": 6 },
+      "per100g": { "calories": 50, "carb": 6, "protein": 1.2, "fat": 2.4 }
+    },
+    "dondurma": {
+      "displayName": "Dondurma",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 207, "carb": 24, "protein": 3.5, "fat": 11 },
+      "per100g": { "calories": 207, "carb": 24, "protein": 3.5, "fat": 11 }
+    },
+    "doner": {
+      "displayName": "Döner",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 300, "carb": 2, "protein": 28, "fat": 20 },
+      "per100g": { "calories": 250, "carb": 1.6, "protein": 23.3, "fat": 16.6 }
+    },
+    "ekmek": {
+      "displayName": "Ekmek",
+      "defaultPortionGrams": 50,
+      "perPortion": { "calories": 132, "carb": 28, "protein": 4, "fat": 1 },
+      "per100g": { "calories": 264, "carb": 56, "protein": 8, "fat": 2 }
+    },
+    "elma": {
+      "displayName": "Elma",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 78, "carb": 20, "protein": 0.4, "fat": 0.2 },
+      "per100g": { "calories": 52, "carb": 13.8, "protein": 0.3, "fat": 0.2 }
+    },
+    "erik": {
+      "displayName": "Erik",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 46, "carb": 11, "protein": 0.7, "fat": 0.2 },
+      "per100g": { "calories": 46, "carb": 11.4, "protein": 0.7, "fat": 0.2 }
+    },
+    "et-sote": {
+      "displayName": "Et Sote",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 320, "carb": 8, "protein": 30, "fat": 18 },
+      "per100g": { "calories": 160, "carb": 4, "protein": 15, "fat": 9 }
+    },
+    "hamsi-tava": {
+      "displayName": "Hamsi Tava",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 350, "carb": 12, "protein": 36, "fat": 18 },
+      "per100g": { "calories": 175, "carb": 6, "protein": 18, "fat": 9 }
+    },
+    "haslanmis-yumurta": {
+      "displayName": "Haşlanmış Yumurta",
+      "defaultPortionGrams": 55,
+      "perPortion": { "calories": 85, "carb": 0.6, "protein": 7, "fat": 6 },
+      "per100g": { "calories": 155, "carb": 1.1, "protein": 13, "fat": 11 }
+    },
+    "havuc": {
+      "displayName": "Havuç",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 41, "carb": 10, "protein": 0.9, "fat": 0.2 },
+      "per100g": { "calories": 41, "carb": 9.6, "protein": 0.9, "fat": 0.2 }
+    },
+    "hunkar-begendi": {
+      "displayName": "Hünkar Beğendi",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 450, "carb": 15, "protein": 28, "fat": 30 },
+      "per100g": { "calories": 180, "carb": 6, "protein": 11.2, "fat": 12 }
+    },
+    "icli-kofte": {
+      "displayName": "İçli Köfte",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 340, "carb": 25, "protein": 14, "fat": 20 },
+      "per100g": { "calories": 283, "carb": 20.8, "protein": 11.6, "fat": 16.6 }
+    },
+    "incir": {
+      "displayName": "İncir",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 74, "carb": 19, "protein": 0.8, "fat": 0.3 },
+      "per100g": { "calories": 74, "carb": 19.2, "protein": 0.8, "fat": 0.3 }
+    },
+    "iskender": {
+      "displayName": "İskender Kebap",
+      "defaultPortionGrams": 350,
+      "perPortion": { "calories": 805, "carb": 60, "protein": 45, "fat": 42 },
+      "per100g": { "calories": 230, "carb": 17.1, "protein": 12.8, "fat": 12 }
+    },
+    "ispanak-yemegi": {
+      "displayName": "Ispanak Yemeği",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 160, "carb": 14, "protein": 6, "fat": 9 },
+      "per100g": { "calories": 80, "carb": 7, "protein": 3, "fat": 4.5 }
+    },
+    "kabak-mucver": {
+      "displayName": "Kabak Mücver",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 216, "carb": 18, "protein": 8, "fat": 12 },
+      "per100g": { "calories": 180, "carb": 15, "protein": 6.6, "fat": 10 }
+    },
+    "kalburabasti": {
+      "displayName": "Kalburabastı",
+      "defaultPortionGrams": 90,
+      "perPortion": { "calories": 315, "carb": 40, "protein": 3, "fat": 15 },
+      "per100g": { "calories": 350, "carb": 44, "protein": 3.3, "fat": 16.6 }
+    },
+    "karnabahar": {
+      "displayName": "Karnabahar Yemeği",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 160, "carb": 12, "protein": 10, "fat": 8 },
+      "per100g": { "calories": 80, "carb": 6, "protein": 5, "fat": 4 }
+    },
+    "karniyarik": {
+      "displayName": "Karnıyarık",
+      "defaultPortionGrams": 220,
+      "perPortion": { "calories": 330, "carb": 15, "protein": 14, "fat": 24 },
+      "per100g": { "calories": 150, "carb": 6.8, "protein": 6.3, "fat": 10.9 }
+    },
+    "karpuz": {
+      "displayName": "Karpuz",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 75, "carb": 19, "protein": 1.5, "fat": 0.4 },
+      "per100g": { "calories": 30, "carb": 7.6, "protein": 0.6, "fat": 0.1 }
+    },
+    "kavun": {
+      "displayName": "Kavun",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 85, "carb": 20, "protein": 2, "fat": 0.5 },
+      "per100g": { "calories": 34, "carb": 8, "protein": 0.8, "fat": 0.2 }
+    },
+    "kayisi": {
+      "displayName": "Kayısı",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 58, "carb": 13, "protein": 1.7, "fat": 0.5 },
+      "per100g": { "calories": 48, "carb": 11, "protein": 1.4, "fat": 0.4 }
+    },
+    "kazandibi": {
+      "displayName": "Kazandibi",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 225, "carb": 36, "protein": 5, "fat": 7 },
+      "per100g": { "calories": 150, "carb": 24, "protein": 3.3, "fat": 4.6 }
+    },
+    "kemal-pasa-tatlisi": {
+      "displayName": "Kemalpaşa Tatlısı",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 280, "carb": 45, "protein": 4, "fat": 8 },
+      "per100g": { "calories": 280, "carb": 45, "protein": 4, "fat": 8 }
+    },
+    "kiraz": {
+      "displayName": "Kiraz",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 95, "carb": 24, "protein": 1.5, "fat": 0.3 },
+      "per100g": { "calories": 63, "carb": 16, "protein": 1, "fat": 0.2 }
+    },
+    "kisir": {
+      "displayName": "Kısır",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 270, "carb": 45, "protein": 6, "fat": 9 },
+      "per100g": { "calories": 180, "carb": 30, "protein": 4, "fat": 6 }
+    },
+    "kivi": {
+      "displayName": "Kivi",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 61, "carb": 15, "protein": 1.1, "fat": 0.5 },
+      "per100g": { "calories": 61, "carb": 15, "protein": 1.1, "fat": 0.5 }
+    },
+    "kiymali-borek": {
+      "displayName": "Kıymalı Börek",
+      "defaultPortionGrams": 140,
+      "perPortion": { "calories": 420, "carb": 38, "protein": 14, "fat": 24 },
+      "per100g": { "calories": 300, "carb": 27, "protein": 10, "fat": 17 }
+    },
+    "kiymali-pide": {
+      "displayName": "Kıymalı Pide",
+      "defaultPortionGrams": 220,
+      "perPortion": { "calories": 550, "carb": 70, "protein": 22, "fat": 20 },
+      "per100g": { "calories": 250, "carb": 31.8, "protein": 10, "fat": 9 }
+    },
+    "kokorec": {
+      "displayName": "Kokoreç",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 420, "carb": 35, "protein": 18, "fat": 25 },
+      "per100g": { "calories": 280, "carb": 23.3, "protein": 12, "fat": 16.6 }
+    },
+    "lahmacun": {
+      "displayName": "Lahmacun",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 330, "carb": 40, "protein": 15, "fat": 12 },
+      "per100g": { "calories": 220, "carb": 26.6, "protein": 10, "fat": 8 }
+    },
+    "levrek": {
+      "displayName": "Levrek",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 200, "carb": 0, "protein": 38, "fat": 5 },
+      "per100g": { "calories": 100, "carb": 0, "protein": 19, "fat": 2.5 }
+    },
+    "lokma": {
+      "displayName": "Lokma",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 380, "carb": 60, "protein": 4, "fat": 15 },
+      "per100g": { "calories": 380, "carb": 60, "protein": 4, "fat": 15 }
+    },
+    "mango": {
+      "displayName": "Mango",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 120, "carb": 30, "protein": 1.6, "fat": 0.8 },
+      "per100g": { "calories": 60, "carb": 15, "protein": 0.8, "fat": 0.4 }
+    },
+    "manti": {
+      "displayName": "Mantı",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 475, "carb": 65, "protein": 18, "fat": 15 },
+      "per100g": { "calories": 190, "carb": 26, "protein": 7.2, "fat": 6 }
+    },
+    "menemen": {
+      "displayName": "Menemen",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 240, "carb": 10, "protein": 12, "fat": 17 },
+      "per100g": { "calories": 120, "carb": 5, "protein": 6, "fat": 8.5 }
+    },
+    "mercimek-corbasi": {
+      "displayName": "Mercimek Çorbası",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 140, "carb": 20, "protein": 8, "fat": 3 },
+      "per100g": { "calories": 56, "carb": 8, "protein": 3.2, "fat": 1.2 }
+    },
+    "mercimek-koftesi": {
+      "displayName": "Mercimek Köftesi",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 295, "carb": 45, "protein": 12, "fat": 7 },
+      "per100g": { "calories": 196, "carb": 30, "protein": 8, "fat": 4.6 }
+    },
+    "midye-dolma": {
+      "displayName": "Midye Dolma",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 160, "carb": 25, "protein": 6, "fat": 4 },
+      "per100g": { "calories": 160, "carb": 25, "protein": 6, "fat": 4 }
+    },
+    "midye-tava": {
+      "displayName": "Midye Tava",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 390, "carb": 30, "protein": 18, "fat": 22 },
+      "per100g": { "calories": 260, "carb": 20, "protein": 12, "fat": 14.6 }
+    },
+    "mumbar-dolmasi": {
+      "displayName": "Mumbar Dolması",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 480, "carb": 20, "protein": 25, "fat": 35 },
+      "per100g": { "calories": 240, "carb": 10, "protein": 12.5, "fat": 17.5 }
+    },
+    "muz": {
+      "displayName": "Muz",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 105, "carb": 27, "protein": 1.3, "fat": 0.4 },
+      "per100g": { "calories": 89, "carb": 22.8, "protein": 1.1, "fat": 0.3 }
+    },
+    "nar": {
+      "displayName": "Nar",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 83, "carb": 19, "protein": 1.7, "fat": 1.2 },
+      "per100g": { "calories": 83, "carb": 18.7, "protein": 1.7, "fat": 1.2 }
+    },
+    "omlet": {
+      "displayName": "Omlet",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 185, "carb": 1, "protein": 13, "fat": 14 },
+      "per100g": { "calories": 154, "carb": 0.8, "protein": 10.8, "fat": 11.6 }
+    },
+    "patates-kizartmasi": {
+      "displayName": "Patates Kızartması",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 465, "carb": 60, "protein": 5, "fat": 22 },
+      "per100g": { "calories": 310, "carb": 40, "protein": 3.4, "fat": 14.6 }
+    },
+    "patates-puresi": {
+      "displayName": "Patates Püresi",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 220, "carb": 35, "protein": 4, "fat": 7 },
+      "per100g": { "calories": 110, "carb": 17.5, "protein": 2, "fat": 3.5 }
+    },
+    "patates-salatasi": {
+      "displayName": "Patates Salatası",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 280, "carb": 30, "protein": 4, "fat": 16 },
+      "per100g": { "calories": 140, "carb": 15, "protein": 2, "fat": 8 }
+    },
+    "patlican-kebabi": {
+      "displayName": "Patlıcan Kebabı",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 400, "carb": 15, "protein": 25, "fat": 27 },
+      "per100g": { "calories": 160, "carb": 6, "protein": 10, "fat": 10.8 }
+    },
+    "peynirli-borek": {
+      "displayName": "Peynirli Börek",
+      "defaultPortionGrams": 140,
+      "perPortion": { "calories": 390, "carb": 40, "protein": 12, "fat": 20 },
+      "per100g": { "calories": 278, "carb": 28.5, "protein": 8.5, "fat": 14.2 }
+    },
+    "pilav": {
+      "displayName": "Pirinç Pilavı",
+      "defaultPortionGrams": 180,
+      "perPortion": { "calories": 234, "carb": 45, "protein": 4, "fat": 4 },
+      "per100g": { "calories": 130, "carb": 25, "protein": 2.2, "fat": 2.2 }
+    },
+    "pirasa": {
+      "displayName": "Pırasa Yemeği",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 150, "carb": 18, "protein": 2, "fat": 8 },
+      "per100g": { "calories": 75, "carb": 9, "protein": 1, "fat": 4 }
+    },
+    "portakal": {
+      "displayName": "Portakal",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 70, "carb": 18, "protein": 1.4, "fat": 0.2 },
+      "per100g": { "calories": 47, "carb": 11.7, "protein": 0.9, "fat": 0.1 }
+    },
+    "sahlep": {
+      "displayName": "Salep",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 190, "carb": 35, "protein": 6, "fat": 3 },
+      "per100g": { "calories": 95, "carb": 17.5, "protein": 3, "fat": 1.5 }
+    },
+    "salatalik": {
+      "displayName": "Salatalık",
+      "defaultPortionGrams": 120,
+      "perPortion": { "calories": 18, "carb": 4, "protein": 0.8, "fat": 0.1 },
+      "per100g": { "calories": 15, "carb": 3.6, "protein": 0.6, "fat": 0.1 }
+    },
+    "salcali-makarna": {
+      "displayName": "Salçalı Makarna",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 280, "carb": 50, "protein": 8, "fat": 5 },
+      "per100g": { "calories": 140, "carb": 25, "protein": 4, "fat": 2.5 }
+    },
+    "sandvic": {
+      "displayName": "Sandviç",
+      "defaultPortionGrams": 180,
+      "perPortion": { "calories": 450, "carb": 45, "protein": 18, "fat": 22 },
+      "per100g": { "calories": 250, "carb": 25, "protein": 10, "fat": 12.2 }
+    },
+    "seftali": {
+      "displayName": "Şeftali",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 59, "carb": 14, "protein": 1.4, "fat": 0.4 },
+      "per100g": { "calories": 39, "carb": 9.5, "protein": 0.9, "fat": 0.3 }
+    },
+    "sehriye-corbasi": {
+      "displayName": "Şehriye Çorbası",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 125, "carb": 18, "protein": 4, "fat": 4 },
+      "per100g": { "calories": 50, "carb": 7.2, "protein": 1.6, "fat": 1.6 }
+    },
+    "siyah-zeytin": {
+      "displayName": "Siyah Zeytin",
+      "defaultPortionGrams": 30,
+      "perPortion": { "calories": 63, "carb": 1.8, "protein": 0.6, "fat": 6.3 },
+      "per100g": { "calories": 210, "carb": 6, "protein": 2, "fat": 21 }
+    },
+    "su-boregi": {
+      "displayName": "Su Böreği",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 420, "carb": 40, "protein": 12, "fat": 24 },
+      "per100g": { "calories": 280, "carb": 26.6, "protein": 8, "fat": 16 }
+    },
+    "sucuklu-yumurta": {
+      "displayName": "Sucuklu Yumurta",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 360, "carb": 3, "protein": 18, "fat": 30 },
+      "per100g": { "calories": 240, "carb": 2, "protein": 12, "fat": 20 }
+    },
+    "sulu-bamya-yemegi": {
+      "displayName": "Bamya Yemeği",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 90, "carb": 10, "protein": 4, "fat": 4 },
+      "per100g": { "calories": 45, "carb": 5, "protein": 2, "fat": 2 }
+    },
+    "sulu-barbunya-yemegi": {
+      "displayName": "Barbunya Pilaki",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 320, "carb": 35, "protein": 10, "fat": 14 },
+      "per100g": { "calories": 160, "carb": 17.5, "protein": 5, "fat": 7 }
+    },
+    "sulu-bezelye-yemegi": {
+      "displayName": "Bezelye Yemeği",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 180, "carb": 16, "protein": 12, "fat": 8 },
+      "per100g": { "calories": 90, "carb": 8, "protein": 6, "fat": 4 }
+    },
+    "sulu-kuru-fasulye-yemegi": {
+      "displayName": "Kuru Fasulye",
+      "defaultPortionGrams": 220,
+      "perPortion": { "calories": 286, "carb": 30, "protein": 16, "fat": 10 },
+      "per100g": { "calories": 130, "carb": 13.6, "protein": 7.2, "fat": 4.5 }
+    },
+    "sulu-mercimek-yemegi": {
+      "displayName": "Yeşil Mercimek Yemeği",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 220, "carb": 30, "protein": 14, "fat": 5 },
+      "per100g": { "calories": 110, "carb": 15, "protein": 7, "fat": 2.5 }
+    },
+    "sulu-nohut-yemegi": {
+      "displayName": "Nohut Yemeği",
+      "defaultPortionGrams": 220,
+      "perPortion": { "calories": 308, "carb": 35, "protein": 15, "fat": 11 },
+      "per100g": { "calories": 140, "carb": 16, "protein": 6.8, "fat": 5 }
+    },
+    "sulu-patates-yemegi": {
+      "displayName": "Patates Yemeği",
+      "defaultPortionGrams": 220,
+      "perPortion": { "calories": 220, "carb": 24, "protein": 12, "fat": 8 },
+      "per100g": { "calories": 100, "carb": 10.9, "protein": 5.4, "fat": 3.6 }
+    },
+    "sutlac": {
+      "displayName": "Sütlaç",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 240, "carb": 40, "protein": 6, "fat": 6 },
+      "per100g": { "calories": 120, "carb": 20, "protein": 3, "fat": 3 }
+    },
+    "tantuni": {
+      "displayName": "Tantuni",
+      "defaultPortionGrams": 160,
+      "perPortion": { "calories": 400, "carb": 32, "protein": 24, "fat": 20 },
+      "per100g": { "calories": 250, "carb": 20, "protein": 15, "fat": 12.5 }
+    },
+    "tarhana-corbasi": {
+      "displayName": "Tarhana Çorbası",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 150, "carb": 25, "protein": 5, "fat": 3 },
+      "per100g": { "calories": 60, "carb": 10, "protein": 2, "fat": 1.2 }
+    },
+    "tas-kebabi": {
+      "displayName": "Tas Kebabı",
+      "defaultPortionGrams": 220,
+      "perPortion": { "calories": 330, "carb": 15, "protein": 30, "fat": 16 },
+      "per100g": { "calories": 150, "carb": 6.8, "protein": 13.6, "fat": 7.2 }
+    },
+    "tavuk-sote": {
+      "displayName": "Tavuk Sote",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 240, "carb": 8, "protein": 36, "fat": 7 },
+      "per100g": { "calories": 120, "carb": 4, "protein": 18, "fat": 3.5 }
+    },
+    "tulumba-tatlisi": {
+      "displayName": "Tulumba Tatlısı",
+      "defaultPortionGrams": 100,
+      "perPortion": { "calories": 350, "carb": 55, "protein": 3, "fat": 14 },
+      "per100g": { "calories": 350, "carb": 55, "protein": 3, "fat": 14 }
+    },
+    "turk-kahvesi": {
+      "displayName": "Türk Kahvesi",
+      "defaultPortionGrams": 60,
+      "perPortion": { "calories": 2, "carb": 0.5, "protein": 0.1, "fat": 0 },
+      "per100g": { "calories": 3, "carb": 0.8, "protein": 0.2, "fat": 0 }
+    },
+    "tursu": {
+      "displayName": "Turşu",
+      "defaultPortionGrams": 80,
+      "perPortion": { "calories": 16, "carb": 3, "protein": 0.5, "fat": 0 },
+      "per100g": { "calories": 20, "carb": 4, "protein": 0.6, "fat": 0.1 }
+    },
+    "uzum": {
+      "displayName": "Üzüm",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 104, "carb": 27, "protein": 1, "fat": 0.2 },
+      "per100g": { "calories": 69, "carb": 18, "protein": 0.7, "fat": 0.1 }
+    },
+    "yaprak-sarma": {
+      "displayName": "Yaprak Sarma",
+      "defaultPortionGrams": 150,
+      "perPortion": { "calories": 270, "carb": 30, "protein": 5, "fat": 14 },
+      "per100g": { "calories": 180, "carb": 20, "protein": 3.3, "fat": 9.3 }
+    },
+    "yayla-corbasi": {
+      "displayName": "Yayla Çorbası",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 150, "carb": 18, "protein": 5, "fat": 6 },
+      "per100g": { "calories": 60, "carb": 7.2, "protein": 2, "fat": 2.4 }
+    },
+    "yesil-zeytin": {
+      "displayName": "Yeşil Zeytin",
+      "defaultPortionGrams": 30,
+      "perPortion": { "calories": 44, "carb": 1, "protein": 0.4, "fat": 4.5 },
+      "per100g": { "calories": 145, "carb": 3.8, "protein": 1.3, "fat": 15 }
+    },
+    "yogurt": {
+      "displayName": "Yoğurt",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 122, "carb": 9, "protein": 7, "fat": 6.6 },
+      "per100g": { "calories": 61, "carb": 4.6, "protein": 3.5, "fat": 3.3 }
+    },
+    "yogurtlu-makarna": {
+      "displayName": "Yoğurtlu Makarna",
+      "defaultPortionGrams": 250,
+      "perPortion": { "calories": 325, "carb": 50, "protein": 12, "fat": 8 },
+      "per100g": { "calories": 130, "carb": 20, "protein": 4.8, "fat": 3.2 }
+    },
+    "zeytinyagli-fasulye": {
+      "displayName": "Zeytinyağlı Taze Fasulye",
+      "defaultPortionGrams": 200,
+      "perPortion": { "calories": 160, "carb": 14, "protein": 4, "fat": 10 },
+      "per100g": { "calories": 80, "carb": 7, "protein": 2, "fat": 5 }
+    }
+  }
